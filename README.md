@@ -1,12 +1,12 @@
 Author: Jun Jiang
 Email: jovechiang@gmail.com
 
-Description:
+##Description:
 This is a library for large graph algorithm.
 
 
-Development Plan
-1st Step (core part) : the-state-of-art graph algorithms. 
+##Development Plan
+###1st Step (core part) : the-state-of-art graph algorithms. 
          There are 4 main subgroups:  Paths, Optimization, Traveling and Ordering
 		 Paths
 			|-------Eulerian Path
@@ -62,7 +62,7 @@ Development Plan
 		 Ordering
 			|-------Topological Sort
 
-2nd Step (scalable ) : turn this version into a distributed version. Need NoSQL database support
+###2nd Step (scalable ) : turn this version into a distributed version. Need NoSQL database support
 
-3rd Step (application): Develop a web graph crawler based on this lib
+###3rd Step (application): Develop a web graph crawler based on this lib
 
